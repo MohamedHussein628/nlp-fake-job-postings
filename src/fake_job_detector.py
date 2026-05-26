@@ -21,8 +21,8 @@ Original file is located at
 #   3. Approach B   - DistilBERT as feature extractor + Logistic Regression
 # ============================================================
 """
-
-!pip install -q transformers kagglehub accelerate
+# Colab only:
+# !pip install -q transformers kagglehub accelerate
 
 # ── Imports ───────────────────────────────────────────────────────────────────
 import os

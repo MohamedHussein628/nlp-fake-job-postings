@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+env/
+*.pyc
+
+distilbert_finetuned/
+*.pt
+*.pth
+*.bin
+
+outputs/*.png
+!outputs/.gitkeep
